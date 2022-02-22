@@ -45,4 +45,4 @@ Analyze multiple feature. So that we can see the correlation for each feature : 
 4. Mostly shipments type is 'ship' and in total 59.67% shipments has not reached on time and 40% of customers give bad rating (below the average).
 5. There are no significant correlation for each features.
 6. Discount_offered have positive correlation with Reached on Time or Not, and also Weights_in_gms have negative correlation with Reached on Time or Not.
-7. egardless of what product importance, the products are delivered late nonetheless
+7. Regardless of what product importance, the products are delivered late nonetheless
