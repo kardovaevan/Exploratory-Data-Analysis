@@ -23,7 +23,7 @@ The data contains the following information:
 
 ## Preparation
 1. Python
-2. Libarary : pandas, seaborn, matplotlib
+2. Libarary : pandas, seaborn, matplotlib, plotly
 
 ## Data Cleansing
 The data does not contain major issues (No missing values and duplicated rows)
